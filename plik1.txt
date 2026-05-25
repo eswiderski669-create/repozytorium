@@ -1,0 +1,1 @@
+Pierwszy plik tekstowy do ćwiczeń Git.
