@@ -2,6 +2,8 @@
 
 Projekt demonstracyjny do nauki podstawowych operacji Git, Git Flow oraz Trunk-Based Development.
 
+**Sprawozdanie z linkami:** [SPRAWOZDANIE.md](SPRAWOZDANIE.md) · **Repo:** [github.com/eswiderski669-create/repozytorium](https://github.com/eswiderski669-create/repozytorium)
+
 ## Autor
 
 Student Git (student@example.com)
