@@ -42,9 +42,11 @@ CONFLICT (add/add): Merge conflict in plik.txt
 
 **Rozwiązanie konfliktu:** usunięto markery `<<<<<<<`, `=======`, `>>>>>>>`, zapisano jedną uzgodnioną linię tekstu, `git add plik.txt`, commit merge.
 
-## 6. Praca zespołowa (GitLab)
+## 6. Praca zespołowa (GitHub)
 
-Szczegóły w pliku [INSTRUKCJA-GITLAB.md](INSTRUKCJA-GITLAB.md) — konfiguracja `origin`, push, Merge Request.
+Konto: [eswiderski669-create](https://github.com/eswiderski669-create). Zdalne repo: `origin` → `https://github.com/eswiderski669-create/repozytoirm.git`.
+
+Szczegóły: [INSTRUKCJA-GITHUB.md](INSTRUKCJA-GITHUB.md) — utworzenie repo na GitHub, push, Pull Request (odpowiednik Merge Request).
 
 ## 7. Tagowanie
 
