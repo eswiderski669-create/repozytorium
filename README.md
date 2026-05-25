@@ -11,3 +11,6 @@ Student Git (student@example.com)
 - Pliki tekstowe do ćwiczeń operacji na repozytorium
 - Gałęzie feature, release i hotfix (Git Flow)
 - Scalanie z konfliktem (Trunk-Based)
+
+## Wersja 1.0.0
+Przygotowanie wydania.
