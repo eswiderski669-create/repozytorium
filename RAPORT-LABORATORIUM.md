@@ -49,7 +49,7 @@ Szczegóły w pliku [INSTRUKCJA-GITLAB.md](INSTRUKCJA-GITLAB.md) — konfiguracj
 ## 7. Tagowanie
 
 - Tagi Git Flow: `1.0.0`, `poprawka-buga`
-- Tag wersji na produkcji: **`v1.1.0`** na gałęzi `master` (wskazuje ten sam commit co `main`)
+- Tag wersji na produkcji: **`v1.1.0`** (commit scalenia konfliktu), **`v1.2.0`** (HEAD gałęzi `master` = `main`)
 
 ```bash
 git tag -l
