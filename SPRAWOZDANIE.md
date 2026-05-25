@@ -1,7 +1,8 @@
 # Sprawozdanie — laboratorium Git (minCI&CD)
 
 **Autor:** Student Git (student@example.com)  
-**Katalog lokalny:** `c:\Users\eswid\Desktop\minCI&CD\repozytoirm`
+**Katalog lokalny:** `c:\Users\eswid\Desktop\minCI&CD\repozytoirm`  
+**Wersja Word:** [SPRAWOZDANIE.docx](SPRAWOZDANIE.docx)
 
 ---
 
