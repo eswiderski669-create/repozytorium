@@ -14,3 +14,6 @@ Student Git (student@example.com)
 
 ## Wersja 1.0.0
 Przygotowanie wydania.
+
+## Code review (demo PR)
+Zmiana przygotowana do Pull Request na galezi `develop`.
