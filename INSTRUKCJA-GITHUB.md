@@ -7,7 +7,7 @@ Konto: **[eswiderski669-create](https://github.com/eswiderski669-create)**
 ## Krok 1: Utwórz puste repozytorium na GitHub
 
 1. Wejdź na [https://github.com/new](https://github.com/new) (jesteś zalogowany).
-2. **Repository name:** `repozytoirm`
+2. **Repository name:** `repozytorium` (już utworzone)
 3. **Public** lub Private — według wymagań zajęć.
 4. **Nie zaznaczaj** „Add a README” / „Add .gitignore” (masz już lokalny projekt).
 5. Kliknij **Create repository**.
@@ -17,13 +17,13 @@ Konto: **[eswiderski669-create](https://github.com/eswiderski669-create)**
 ```powershell
 cd "c:\Users\eswid\Desktop\minCI&CD\repozytoirm"
 git remote -v
-# origin → https://github.com/eswiderski669-create/repozytoirm.git
+# origin → https://github.com/eswiderski669-create/repozytorium.git
 ```
 
 Jeśli `origin` nie istnieje:
 
 ```powershell
-git remote add origin https://github.com/eswiderski669-create/repozytoirm.git
+git remote add origin https://github.com/eswiderski669-create/repozytorium.git
 ```
 
 ## Krok 3: Autoryzacja (jednorazowo)
@@ -59,7 +59,7 @@ git commit -m "Demo: zmiana do Pull Request"
 git push -u origin feature/code-review-demo
 ```
 
-2. Na GitHub: repozytorium **repozytoirm** → **Pull requests** → **New pull request**.
+2. Na GitHub: repozytorium **[repozytorium](https://github.com/eswiderski669-create/repozytorium)** → **Pull requests** → **New pull request**.
 3. **base:** `develop` ← **compare:** `feature/code-review-demo`.
 4. Opis zmian, **Create pull request**.
 5. Po review: **Merge pull request** → opcjonalnie **Delete branch**.
@@ -69,7 +69,7 @@ git push -u origin feature/code-review-demo
 ```powershell
 git remote -v
 git branch -r
-gh repo view eswiderski669-create/repozytoirm --web
+gh repo view eswiderski669-create/repozytorium --web
 ```
 
 Po merge PR masz pełny cykl code review na GitHub.

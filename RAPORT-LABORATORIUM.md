@@ -44,7 +44,7 @@ CONFLICT (add/add): Merge conflict in plik.txt
 
 ## 6. Praca zespołowa (GitHub)
 
-Konto: [eswiderski669-create](https://github.com/eswiderski669-create). Zdalne repo: `origin` → `https://github.com/eswiderski669-create/repozytoirm.git`.
+Konto: [eswiderski669-create](https://github.com/eswiderski669-create). Zdalne repo: [repozytorium](https://github.com/eswiderski669-create/repozytorium) — `origin` → `https://github.com/eswiderski669-create/repozytorium.git`. Wypchnięto: `main`, `develop`, `master`, tagi.
 
 Szczegóły: [INSTRUKCJA-GITHUB.md](INSTRUKCJA-GITHUB.md) — utworzenie repo na GitHub, push, Pull Request (odpowiednik Merge Request).
 
